@@ -49,7 +49,7 @@ The stack/Technologies used for this project are:
 
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
-### Project Roles and Responsibilities
+## Project Roles and Responsibilities
 
 | Role | Responsibilities |
 | :--- | :--- |
@@ -61,4 +61,27 @@ A well-designed booking system reduces friction in the user journey, increases c
 | DevOps Engineers | Manages deployment, CI/CD pipeline, server infrastructure |
 | Product Owner | Defines requirements, prioritizes features, represents stakeholders |
 | Scrum Master | Facilitates agile processes, removes blockers, organizes meetings |
+
+## UI Component Patterns
+
+### Planned Components
+
+1. Navbar
+   * Logo
+   * Search bar
+   * User navigation
+   * Responsive menu
+3. Property Card
+   * Property image
+   * Basic details (price, location, rating)
+   * Favorite button
+   * Responsive layout
+5. Footer
+   * Site links
+   * Company information
+   * Social media links
+   * Copyright information
+
+
+Each component will be designed for reusability and consistency across the application.
 
